@@ -1,0 +1,21 @@
+server {
+    s {
+
+        foo "bar";
+    }
+    
+
+
+
+foo bar;
+    f {
+        bar {
+            hello world;
+        }
+        foo bar;
+        bar "foo" ;
+    }
+    foo bar;
+}
+}}
+

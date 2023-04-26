@@ -1,0 +1,11 @@
+foo "bar";
+
+foo {
+    bar1 {
+
+    }
+
+    { # missing token for block
+        hello "world";
+    }
+}
